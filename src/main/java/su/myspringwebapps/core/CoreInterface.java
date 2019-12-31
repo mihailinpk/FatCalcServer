@@ -2,6 +2,6 @@ package su.myspringwebapps.core;
 
 public interface CoreInterface {
 
-    float convert(float miles);
+    String calculate(String ageText, String heightText, String weightText, String sex);
 
 }

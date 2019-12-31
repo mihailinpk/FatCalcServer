@@ -16,8 +16,8 @@
     </bean>
 
     <!-- Ядро -->
-    <bean id="core"
-          class="su.myspringwebapps.core.Core">
+    <bean   id="core"
+            class="su.myspringwebapps.core.Core">
     </bean>
 
 </beans>
